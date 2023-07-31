@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3kNNECjYlExXhKF9kSwqk+k8IxoJ6Yp+g8B9wffpgVakz5z3vk7hiFkvSA+xYRw7GrlonYpvgx6b+jHRRfJSqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chysh\\Desktop\\work-files\\C#-TutorialCode\\CSE(EbayTutorial)\\CSE(EbayTutorial).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chysh\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512",
+    "C:\\Users\\chysh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\chysh\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\chysh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\chysh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

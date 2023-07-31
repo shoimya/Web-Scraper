@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CSE(EbayTutorial)": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
